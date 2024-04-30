@@ -1,6 +1,9 @@
 # timer_daily_task
 
-A new Flutter project.
+<p>
+  Types of Button
+<img src = "https://github.com/DurgaMewada/timer_daily_task/assets/149373536/4089bffe-fc11-4335-a92d-99c2593959ed" width=22% height=35% >
+</p>
 
 ## Getting Started
 
