@@ -22,7 +22,7 @@ value, or completed with an error with talk about in detail in other blog.
 
 **Duration class :** A span of time, such as 27 days, 4 hours, 12 minutes, and 3 seconds. A Duration represents a difference from one point in time to another.
 
-**Future.delayed() constructor:** Creates a future that runs its computation after a delay. The computation will be executed after the given duration has passed,
+**Future.delayed() constructor :** Creates a future that runs its computation after a delay. The computation will be executed after the given duration has passed,
 and the future is completed with the result of the computation.
 
 ## Examples
