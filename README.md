@@ -121,6 +121,11 @@ Creates a new repeating timer. The callback is invoked repeatedly with duration 
  }
 ```
 
+# 5.3 Digital Clock App Page
+
+<p>
+<img src = "https://github.com/DurgaMewada/timer_daily_task/assets/149373536/843b2c68-0155-439b-abb2-e726d6c2250e" width=50% height=35% >
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
