@@ -1,4 +1,9 @@
-https://github.com/DurgaMewada/timer_daily_task/assets/149373536/27149a2f-349a-4c95-ac9a-3df25b64b577
+https://github.com/DurgaMewada/timer_daily_task/assets/149373536/27149a2f-349a-4c95-ac9a-3df2
+
+https://github.com/DurgaMewada/timer_daily_task/assets/149373536/6bb40edb-0a85-4be8-9a5e-4ba829926a6a
+
+5b64b577
+
 # 5.1 Flutter Buttons
 <p>
 <img src = "https://github.com/DurgaMewada/timer_daily_task/assets/149373536/4089bffe-fc11-4335-a92d-99c2593959ed" width=50% height=35% >
